@@ -10,11 +10,17 @@
 ## --- HOW TO PLAY 
 
 **e1 e3**  : move the piece from box e1 to box e3
+
 **do o-o** : castle king side
+
 **do o-o-o** : castle queen side
+
 **do restart**   :  restart the game
+
 **do abort**     :  abort the game
+
 **do save** : saves the game into *a file save.oc*
+
 **do load**  : loads the game from *save.oc*
 
 
